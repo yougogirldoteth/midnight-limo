@@ -14,7 +14,7 @@ Why with fleek? Cause it is way easier than to set up some scripts to refresh/re
 6. 'Create new site' and connect to your repo. Deployed! -> https://dry-voice-3732.on.fleek.co/
 7. Then go to 'Settings' -> 'Domain Management' -> 'ENS'. Pay a small gas fee ( 6-10$ ) to put the content hash in your ENS records.
 
-   and there you go! You built a small (gud looking) business card website on your ENS domain.
+   And there you go! You built a small (gud looking) business card website on your ENS domain.
 
 ## Thank you
 
