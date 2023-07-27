@@ -1,6 +1,8 @@
 # midnight-limo
 
-With this repo you can easily set up your .eth.limo site with a breeze, a pfp and some links. Your online business card, built on your ENS (with fleek). Why with fleek? Cause it is way easier than to set up some scripts to refresh/renew the ipfs/ipns.
+With this repo you can easily set up your .eth.limo site with a breeze, a pfp and some links. Your online business card, built on your ENS (with fleek). 
+
+Why with fleek? Cause it is way easier than to set up some scripts to refresh/renew the ipfs/ipns. You could also do it maunally without a platform of course.
 
 ## Steps
 
@@ -10,6 +12,10 @@ With this repo you can easily set up your .eth.limo site with a breeze, a pfp an
 4. Push to your Github.
 5. Go to fleek.co and login (with wallet sign in or just with github acc).
 6. 'Create new site' and connect to your repo. Deployed! -> https://dry-voice-3732.on.fleek.co/
-7. Then go to 'Settings' -> 'Domain Management' -> 'ENS'. Pay a small gas fee to put the content hash in your ENS records.
+7. Then go to 'Settings' -> 'Domain Management' -> 'ENS'. Pay a small gas fee ( 6-10$ ) to put the content hash in your ENS records.
 
    and there you go! You built a small (gud looking) business card website on your ENS domain.
+
+## Thank you
+
+This is a shameless copy pasta from jalil.eth.limo! As always ty Jalil.
