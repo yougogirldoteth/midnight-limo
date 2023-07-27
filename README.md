@@ -2,7 +2,7 @@
 
 With this repo you can easily set up your .eth.limo site with a breeze, a pfp and some links. Your online business card, built on your ENS (with fleek). 
 
-Why with fleek? Cause it is way easier than to set up some scripts to refresh/renew the ipfs/ipns. You could also do it maunally without a platform of course.
+Why with fleek? Cause it is way easier than to set up some scripts to refresh/renew the ipfs/ipns. You could also do it manually without a platform of course.
 
 ## Steps
 
@@ -18,4 +18,4 @@ Why with fleek? Cause it is way easier than to set up some scripts to refresh/re
 
 ## Thank you
 
-This is a shameless copy pasta from jalil.eth.limo! As always ty Jalil.
+This is a shameless copy pasta from https://jalil.eth.limo! As always ty Jalil.
