@@ -133,24 +133,12 @@ ul li a:active {
 
 @keyframes gradient {
   0% {
-    box-shadow: 0 0.25rem 3rem 2rem rgb(96 195 186 / 9%);
+    box-shadow: 0 0.25rem 3rem 2rem rgb(96 195 186 / 8%);
   }
   50% {
-    box-shadow: -0.5rem -0.5rem 3rem 2rem rgb(96 195 186 / 19%);
+    box-shadow: -0.5rem -0.5rem 3rem 2rem rgba(79, 193, 184, 0.17);
   }
   100% {
-    box-shadow: 1rem 1.45rem 5rem 3.9rem rgb(96 195 186 / 13%);
+    box-shadow: 1rem 1.45rem 5rem 3.9rem rgba(24, 147, 136, 0.12);
   }
-}
-
-.audio{
-  float: right;
-  margin: 0 0 10px;
-  width: 15px;
-  cursor: pointer;
-  opacity: 0.5
-}
-
-.audio.on{
-  opacity: 1;
 }
