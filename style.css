@@ -133,13 +133,13 @@ ul li a:active {
 
 @keyframes gradient {
   0% {
-    box-shadow: 0 0.25rem 3rem 2rem rgb(95 45 145 / 9%);
+    box-shadow: 0 0.25rem 3rem 2rem rgb(96 195 186 / 9%);
   }
   50% {
-    box-shadow: -0.5rem -0.5rem 3rem 2rem rgb(100 45 130 / 19%);
+    box-shadow: -0.5rem -0.5rem 3rem 2rem rgb(96 195 186 / 19%);
   }
   100% {
-    box-shadow: 1rem 1.45rem 5rem 3.9rem rgb(95 45 170 / 13%);
+    box-shadow: 1rem 1.45rem 5rem 3.9rem rgb(96 195 186 / 13%);
   }
 }
 
