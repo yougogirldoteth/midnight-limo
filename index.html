@@ -21,7 +21,6 @@
     <meta name="og:description" content="I write the best breeze threads.">
 </head>
 <body>
-    <audio id="scapeSound" src="9325.mp3" loop="loop"></audio>
     <main>
         <header>
             <iframe src="https://midnightbreeze.mypinata.cloud/ipfs/QmVcZrjzmT7CMa2nkgLN5nXVaydxtwPoyUdofNDLwzFTS8/5452.png" frameborder="0" tabindex="-1"></iframe>
@@ -37,23 +36,8 @@
                     <a href="https://twitter.com/derakmandious" target="_blank">Twitter</a>
                 </li>
             </ul>
-             <span class="audio"><img onclick="playAudio()" src = "audio.svg" alt="play/pause audio"/></span>
         </section>
     </main>
 
 </body>
-<script>
-    var x = document.getElementById("scapeSound"); 
-    var audioButton = document.querySelector(".audio");
-    
-    function playAudio() { 
-        if(x.paused) {
-            x.play();
-            audioButton.classList.add("on");
-        } else {
-            x.pause();
-            audioButton.classList.remove("on");
-        }
-    } 
-</script>
 </html>
