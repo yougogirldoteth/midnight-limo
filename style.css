@@ -3,14 +3,14 @@
 
   /* Colors */
   --black: black;
-  --dark-bg: rgb(14 11 18);
+  --dark-bg: rgb(2 20 18);
   --primary: #97dbd5;
-  --action: rgb(58 50 86 / 40%);
-  --action-active: rgb(58 50 86 / 80%);
+  --action: rgb(9 66 61 / 40%);
+  --action-active: rgb(9 66 61 / 80%);
 
   /* Borders */
   --border-radius: 0.5rem;
-  --border: 3px solid rgb(20 15 25);
+  --border: 3px solid rgb(2 20 18);
   --border-dark: 3px solid var(--dark-bg);
 }
 
