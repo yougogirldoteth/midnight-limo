@@ -15,7 +15,8 @@ git clone https://github.com/yougogirldoteth/midnight-limo.git
 4. Create new repo on Github. Push clone to your new Github repo: 
 ```
 git remote set-url origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-``````
+```
+```
 git push -u origin main
 ```
 5. Go to fleek.co and login (with wallet sign in or just with github acc).
