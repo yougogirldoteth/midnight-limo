@@ -6,10 +6,17 @@ Why with fleek? Cause it is way easier than to set up some scripts to refresh/re
 
 ## Steps
 
-1. Clone repo.
+1. Clone repo. 
+``` 
+git clone https://github.com/yougogirldoteth/midnight-limo.git 
+```
 2. Add 'my-pfp.png' and 'my-breeze.png' to folder.
 3. Change html: title, icon / meta / description, h1, qoute, links.
-4. Push to your Github.
+4. IniPush to your Github. 
+```
+git remote set-url origin _https://github.com/YOUR-GITHUB-NAME/YOUR-GITHUB-PROJECT.git_
+git push -u origin main
+```
 5. Go to fleek.co and login (with wallet sign in or just with github acc).
 6. 'Create new site' and connect to your repo. Deployed! -> https://dry-voice-3732.on.fleek.co/
 7. Then go to 'Settings' -> 'Domain Management' -> 'ENS'. Pay a small gas fee ( 6-10$ ) to put the content hash in your ENS records.
