@@ -12,7 +12,7 @@ git clone https://github.com/yougogirldoteth/midnight-limo.git
 ```
 2. Add 'my-pfp.png' and 'my-breeze.png' to folder.
 3. Change html: title, icon / meta / description, h1, qoute, links.
-4. IniPush to your Github. 
+4. Create new repo on Github. Push clone to your Github: 
 ```
 git remote set-url origin _https://github.com/YOUR-GITHUB-NAME/YOUR-GITHUB-PROJECT.git_
 git push -u origin main
