@@ -14,7 +14,7 @@ git clone https://github.com/yougogirldoteth/midnight-limo.git
 3. Change html: title, icon / meta / description, h1, qoute, links. Then
 ```
 git add .
-git commit -m 'first commit'
+git commit -m "first commit"
 ```
 4. Create new repo on Github. Push clone to your new Github repo: 
 ```
