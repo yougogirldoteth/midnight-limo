@@ -11,7 +11,11 @@ Why with fleek? Cause it is way easier than to set up some scripts to refresh/re
 git clone https://github.com/yougogirldoteth/midnight-limo.git 
 ```
 2. Add 'my-pfp.png' and 'my-breeze.png' to folder.
-3. Change html: title, icon / meta / description, h1, qoute, links.
+3. Change html: title, icon / meta / description, h1, qoute, links. Then
+```
+git add .
+git commit -m 'first commit'
+```
 4. Create new repo on Github. Push clone to your new Github repo: 
 ```
 git remote set-url origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
